@@ -2,37 +2,37 @@
   {
     "name": "Polar Monarch",
     "type": "BASIC",
-    "stat": "DODGE".
+    "stat": "DODGE",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e811000ca6e92699/view?project=6679e304000ef9ee666d&", 
   },
   {
     "name": "Top G Rizzly",
     "type": "BASIC",
-    "stat": "COMBO".
+    "stat": "COMBO",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e7f4000a5259e5e0/view?project=6679e304000ef9ee666d&", 
   },
   {
     "name": "Grizzly Buddy",
     "type": "BASIC",
-    "stat": "CRITICAL".
+    "stat": "CRITICAL",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e4ab0025e65cb523/view?project=6679e304000ef9ee666d&", 
   },
   {
     "name": "Mud Board",
     "type": "BASIC",
-    "stat": "POISON".
+    "stat": "POISON",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e82800142e2c7280/view?project=6679e304000ef9ee666d&", 
   },
   {
     "name": "Magma Boar",
     "type": "BASIC",
-    "stat": "POISON".
+    "stat": "POISON",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e830001d424446d4/view?project=6679e304000ef9ee666d&", 
   },
   {
     "name": "Etheral Boar",
     "type": "BASIC",
-    "stat": "STUN".
+    "stat": "STUN",
     "pathToIcon": "https://cloud.appwrite.io/v1/storage/buckets/6679e463000ac473d837/files/6679e8380027aed2d3b6/view?project=6679e304000ef9ee666d&", 
-  },
+  }
 ]
